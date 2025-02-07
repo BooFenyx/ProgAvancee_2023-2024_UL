@@ -1,0 +1,14 @@
+Wave 1 finish in 4 seconds
+Wave 2 finish in 10 seconds
+Wave 3 finish in 13 seconds
+Wave 4 finish in 8 seconds
+Wave 5 finish in 11 seconds
+Wave 6 finish in 11 seconds
+Wave 7 finish in 20 seconds
+Wave 8 finish in 12 seconds
+Wave 9 finish in 26 seconds
+Wave 10 finish in 24 seconds
+Wave 11 finish in 13 seconds
+Wave 12 finish in 22 seconds
+
+GG, You killed 227 zombies in 13 wave(s), for a total of 180 seconds of gameplay !
